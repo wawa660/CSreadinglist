@@ -1,5 +1,5 @@
-## CSreadinglist
-# An ambitious reading list to self study CS
+# CSreadinglist
+## An ambitious reading list to self study CS
 - SICP
 - CSAPP
 - OSTEP
