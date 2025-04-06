@@ -21,3 +21,4 @@ An ambitious reading list to self study CS
 -Annotated Turing
 -Theory of Computation by Sipser
 -Theoretical Computer Science History Books (will add later)
+-Philosophy of CS by Rapaport
